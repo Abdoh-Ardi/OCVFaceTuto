@@ -1,5 +1,6 @@
 # opencvFace
 opencvFace recognition 
+python 3.8
 ## how to use
  copy the one line under "usage" and print it in the terminal
 ### required packages
